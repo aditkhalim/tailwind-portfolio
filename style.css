@@ -46,6 +46,7 @@
     animation-delay: -5s;
     bottom: 20px;
   }
+
   @keyframes wave{
     0%{
       background-position-x: 0px; 
